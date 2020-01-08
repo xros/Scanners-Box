@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-246-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-254-blue.svg" alt="number">
 </p>
 
 
@@ -53,10 +53,6 @@
 - https://github.com/le4f/dnsmaper - **子域名枚举爆破工具以及地图位置标记**
 
 > **评分**: 🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
-
-- https://github.com/0xbug/orangescan - **提供web界面的在线子域名信息收集工具**
-
-> **评分**: 🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
 - https://github.com/TheRook/subbrute - **高效精准的子域名爆破工具,同时也是扫描器中最常用的子域名API库**
 
@@ -243,6 +239,10 @@
 
 > **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
+- https://github.com/TideSec/web_pwd_common_crack - **一款通用的web弱口令破解脚本，可批量检测没有验证码的管理后台。**
+
+> **评分**: 🌟🌟🌟🌟         |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
+
 
 ### 物联网设备认证爆破或漏洞评估
 
@@ -301,6 +301,10 @@
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/fcavallarin/domdig - **基于Chrome headless的DOM-XSS扫描器**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### 企业资产管理或数据保护
 
@@ -315,10 +319,6 @@
 - https://github.com/Ekultek/Zeus-Scanner - **集成化的综合搜索引擎，能够抓取被搜索引擎隐藏的url,并交由sqlmap、nmap扫描**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
-
-- https://github.com/0xbug/Biu-framework - **企业内网基础服务安全扫描框架**
-
-> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/metac0rtex/GitHarvester - **Github repos信息搜集工具**
 
@@ -418,6 +418,10 @@
 
 > **评分**: 🌟🌟🌟        |         **语言**: **PHP**         |         **仍在维护**: ✖️
 
+- https://github.com/Tib3rius/AutoRecon - **多线程目标网段探测工具，适用于大型内网探测扫描**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
 
 ### 中间件漏洞评估或信息泄露扫描
 
@@ -440,6 +444,14 @@
 - https://github.com/urbanadventurer/whatweb - **Web指纹识别**
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Ruby**         |         **仍在维护**: ✔️
+
+- https://github.com/TideSec/TideFinger - **Web指纹识别工具，整合多个指纹库结合多种指纹检测方法，检测高效准确**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**        |         **仍在维护**: ✔️
+
+- https://github.com/TideSec/FuzzScanner - **综合型web信息搜集平台，部署方便，功能多样且实用**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**        |         **仍在维护**: ✔️
 
 - https://github.com/tanjiti/FingerPrint - **Web应用指纹识别**
 
@@ -472,7 +484,7 @@
 - https://github.com/3xp10it/bypass_waf - **waf自动暴破绕过**
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
- 
+
 - https://github.com/3xp10it/xcdn - **尝试找出cdn背后的真实ip**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
@@ -644,6 +656,10 @@
 
 > **评分**: 🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
+- https://github.com/0xHJK/dumpall - **`.git` / `.svn` / `.DS_Store`等信息泄露集成利用工具**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
 - https://github.com/shengqi158/svnhack - **A `.svn` 文件夹泄露利用工具**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **NSE**         |         **仍在维护**: ✖️
@@ -784,10 +800,6 @@
 
 > **评分**: 🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
-- https://github.com/mobrine-mob/M0B-tool - **CMS指纹识别及自动化渗透测试框架**
-
-> **评分**: 🌟🌟        |         **编程语言**: **Perl**         |         **仍在维护**: ✖️
-
 - https://github.com/rezasp/vbscan - **论坛框架vBulletin黑盒漏洞扫描器**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Perl**         |         **仍在维护**: ✔️
@@ -827,6 +839,10 @@
 - https://github.com/thelinuxchoice/facebash - **基于TOR网络的Facebook登录爆破脚本**
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Bash Shell**         |         **仍在维护**: ✔️
+
+- https://github.com/cyberark/KubiScan - **k8s集群错误权限配置扫描检查工具**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### 无线网络漏洞评估
@@ -937,10 +953,6 @@
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner - **定向全自动化渗透测试工具**
-
-> **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
-
-- https://github.com/Lcys/lcyscan - **Python插件化漏洞扫描器，支持生成扫描报表**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
 
@@ -1064,12 +1076,28 @@
 
 > **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
 
+- https://github.com/knownsec/Pocsuite - **开源漏洞检测框架**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/opensec-cn/kunpeng - **Golang编写的开源POC框架/库，以动态链接库的形式提供各种语言调用**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/jaeles-project/jaeles - **Golang编写的功能强大，灵活且易于扩展的扫描器基础框架**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### 高级持续性威胁
 
 - https://github.com/Neo23x0/Loki - **根据公开情报库里的IOC信息检索本地是否存在相同hash的文件或与恶意C2的网络连接**
 
 > **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✔️
+
+- https://github.com/Neo23x0/Loki - **根据公开情报库里的IOC信息检索本地是否存在相同hash、相似文本内容的文件或与恶意C2的网络连接**
+
+> **评分**: 🌟🌟🌟🌟🌟        |         **编程语言**: **Bash Shell**         |         **仍在维护**: ✔️
 
 
 ***
@@ -1090,9 +1118,9 @@
 **[category]** 表示 **修改扫描器分类**<br>
 **[contributor]** 表示 **添加某人至致谢榜**<br>
 
-## 免责说明
+## 法律声明
 
-请勿用于非法的用途，否则造成的严重后果与本项目无关。
+本项目所列举的扫描器仅供各位研究学习目的使用，使用过程中也请严格遵守当地法律法规，如果您是中国公民，请严格遵守《中华人民共和国网络安全法》相关规定，也请勿触犯《中华人民共和国刑法》第286条"破坏计算机系统罪"相关条例，否则造成的严重后果与仓库作者无关，特此声明！
 
 ## 如何参与？
 
@@ -1124,5 +1152,9 @@ scanbox在Mozilla协议条款下发布
 - **@hksanduo**
 - **@alexlauerman**
 - **@MedivhMT**
+- **@TideSec**
+- **@0xHJK**
+- **@j3ssie**
+- **@Luci-d**
 
-&copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2019
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2019

@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-246-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-254-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -52,10 +52,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/le4f/dnsmaper - **Subdomain enumeration tool with map record**
 
 > **Rating**: 🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/0xbug/orangescan - **Online subdomain enumeration tool**
-
-> **Rating**: 🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
 - https://github.com/TheRook/subbrute - **A DNS meta-query spider that enumerates DNS records, and subdomains,supported API**
 
@@ -243,6 +239,10 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
+- https://github.com/TideSec/web_pwd_common_crack - **A common web weak_password cracking script,can detect batches of management backgrounds without verification codes**
+
+> **Rating**: 🌟🌟🌟🌟         |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### Authorization Brute Force or Vulnerability Scan For IoT
 
@@ -301,6 +301,11 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/fcavallarin/domdig - **DOM XSS scanner for Single Page Applications**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✔️
+
+
 ### Enterprise Assets Management or Data Protection
 
 - https://github.com/ysrc/xunfeng - **Vulnerability rapid response,scanning system for intranet**
@@ -314,10 +319,6 @@ English | [简体中文](./README_CN.md)
 - https://github.com/Ekultek/Zeus-Scanner - **An advanced dork searching tool that is capable of finding IP address /URL blocked by search engine,and can run sqlmap and nmap scans on the URL's**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
-
-- https://github.com/0xbug/Biu-framework - **Security scan framework For enterprise intranet based services**
-
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/metac0rtex/GitHarvester - **Used for harvesting information from GitHub**
 
@@ -417,6 +418,10 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **PHP**         |         **Ongoing[last 6 months]**: ✖️
 
+- https://github.com/Tib3rius/AutoRecon - **A multi-threaded network reconnaissance tool which performs automated enumeration of services**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### Vulnerability Assessment for Middleware or Information Leak Scan
 
@@ -435,6 +440,14 @@ English | [简体中文](./README_CN.md)
 - https://github.com/rbsec/sslscan - **Tests SSL/TLS enabled services to discover supported cipher suites**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **C**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/TideSec/TideFinger - **Web fingerprint identification tool, more fingerprint database, more detection methods**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**        |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/TideSec/FuzzScanner - **Comprehensive web information collection platform, easy to deploy, versatile and practical**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**        |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/urbanadventurer/whatweb - **Website fingerprinter**
 
@@ -471,7 +484,7 @@ English | [简体中文](./README_CN.md)
 - https://github.com/3xp10it/bypass_waf - **Automatic WAF Bypass Fuzzing Tool**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
- 
+
 - https://github.com/3xp10it/xcdn - **Try to find out the actual ip behind cdn**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
@@ -643,6 +656,10 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
+- https://github.com/0xHJK/dumpall - **`.git` / `.svn` / `.DS_Store` disclosure exploit**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
 - https://github.com/shengqi158/svnhack - **A `.svn` folder disclosure exploit**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **NSE**         |         **Ongoing[last 6 months]**: ✖️
@@ -783,10 +800,6 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
-- https://github.com/mobrine-mob/M0B-tool - **Auto detect CMS and exploit**
-
-> **Rating**: 🌟🌟        |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✖️
-
 - https://github.com/rezasp/vbscan - **OWASP VBScan is a Black Box vBulletin vulnerability scanner**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Perl**         |         **Ongoing[last 6 months]**: ✔️
@@ -826,6 +839,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/thelinuxchoice/facebash - **Facebook Brute Forcer in shellscript using TOR**
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Bash Shell**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/cyberark/KubiScan - **A tool to scan Kubernetes cluster for risky permissions**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Vulnerability Assessment for Wireless Network
@@ -936,10 +953,6 @@ English | [简体中文](./README_CN.md)
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/RASSec/pentestEr_Fully-automatic-scanner - **Directional fully automated penetration testing**
-
-> **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
-
-- https://github.com/Lcys/lcyscan - **A vuls scanner, plugins supported**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
 
@@ -1063,12 +1076,29 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/knownsec/Pocsuite - **Open-sourced remote vulnerability testing framework**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/opensec-cn/kunpeng - **An open source POC framework written by Golang that provides various language calls in the form of a dynamic link library**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/jaeles-project/jaeles - **The Swiss Army knife for automated Web Application Testing**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### Advanced Persistent Threat
 
 - https://github.com/Neo23x0/Loki - **Simple IOC and Incident Response Scanner**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/Neo23x0/Fenrir - **Simple IOC and Incident Response Scanner**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Bash Shell**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ***
 ## Why Create This Collection?
@@ -1087,9 +1117,9 @@ The purpose of this collection is to provide various types of  open-source secur
 
 **Wester**(Twitter <a href="http://twitter.com/wester0x01">@Zhiyang Zeng</a>) & **Martin**(Twitter <a href="https://twitter.com/yuyangchow">@Martin Chow</a>)
 
-## Disclaimer
+## Legal Disclaimer
 
-Do not use for illegal purposes.
+The scanners provided by this project are for research and study purposes only, and you must obey the laws and regulations of your country during use. If you are a Chinese citizen, please ensure you are obedient to *The Cyber Security Law of the People's Republic of China*, and please do not break the article 286 of *the Criminal Law of the People's Republic of China* for the regulation on the crime of destroying computer systems. At last, I would like to point out to you that you must be fully held responsible duty for any consequence that may arise.
 
 ## How to contribute?
 
@@ -1101,7 +1131,7 @@ scanbox is released under the Mozilla license.
 
 ## Copyright
 
-It's happy to see that this repository has been widely spreaded in information security community, but I hope everyone could respect knowledge and our efforts, so please specify reproduced from https://github.com/We5ter/Scanners-Box in your articles, and please do not republish this article for profit.
+It's happy to see that this repository has been widely spreaded in information security community, but I hope everyone could at all times respect knowledge and our efforts, so please specify reproduced from https://github.com/We5ter/Scanners-Box in your articles, and please do not republish this article for profit.
 
 ## Acknowledgments
 
@@ -1121,7 +1151,9 @@ We would like to thanks the following security researchers for their valuable fe
 - **@hksanduo**
 - **@alexlauerman**
 - **@MedivhMT**
+- **@TideSec**
+- **@0xHJK**
+- **@j3ssie**
+- **@Luci-d**
 
-&copy;<a href="https://github.com/sixtant" target="_blank">Sixtant Security Lab</a> 2019
-
-
+&copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2019
