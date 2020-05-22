@@ -7,7 +7,7 @@ English | [简体中文](./README_CN.md)
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-254-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-259-blue.svg" alt="number">
 </p>
 
 ## Introduction
@@ -150,6 +150,14 @@ English | [简体中文](./README_CN.md)
 > **Rating**: 🌟🌟🌟         |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
 - https://github.com/janniskirschner/horn3t - **Powerful Visual Subdomain Enumeration**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/yunxu1/dnsub - **A high concurrency and cross platform subdomain scanner based on Golang**
+
+> **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **GO**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/shmilylty/OneForAll - **An ultimate subdomains scanner integrated multiple subdomain scanning tools**
 
 > **Rating**: 🌟🌟🌟🌟🌟         |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
@@ -304,6 +312,10 @@ English | [简体中文](./README_CN.md)
 - https://github.com/fcavallarin/domdig - **DOM XSS scanner for Single Page Applications**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/lwzSoviet/NoXss - **Faster reflected-xss and dom-xss scanner based on Phantomjs**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Enterprise Assets Management or Data Protection
@@ -648,6 +660,11 @@ English | [简体中文](./README_CN.md)
 - https://github.com/1N3/BlackWidow - **Gather OSINT and fuzz for OWASP vulnerabilities on a target website**
 
 > **Rating**: 🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✖️
+
+
+- https://github.com/saeeddhqan/Maryam - **OSINT and Web-based Footprinting modular framework based on the Recon-ng**
+
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### Special Components or Vulnerability Categories Scan
@@ -1014,7 +1031,7 @@ English | [简体中文](./README_CN.md)
 
 - https://github.com/Lucifer1993/AngelSword - **Web vulnerability scanner framework based on python3**
 
-> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+> **Rating**: 🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✖️
 
 - https://github.com/zaproxy/zaproxy - **One of the world’s most popular free security tools and is actively maintained by hundreds of international volunteers**
 
@@ -1088,6 +1105,10 @@ English | [简体中文](./README_CN.md)
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/TideSec/Mars - **The totally new generation of WDScanner**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### Advanced Persistent Threat
 
@@ -1155,5 +1176,8 @@ We would like to thanks the following security researchers for their valuable fe
 - **@0xHJK**
 - **@j3ssie**
 - **@Luci-d**
+- **@cnlnn**
+- **@yunxu1**
+- **@saeeddhqan**
 
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster  Zero Team</a> 2019

@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/version-2.0-blue.svg" alt="python 3.x">
   <img src="http://img.shields.io/badge/license-Mozilla-blue.svg?style=flat" alt="license">
- <img src="https://img.shields.io/badge/Scanners/Number-254-blue.svg" alt="number">
+ <img src="https://img.shields.io/badge/Scanners/Number-259-blue.svg" alt="number">
 </p>
 
 
@@ -151,6 +151,14 @@
 > **评分**: 🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
 
 - https://github.com/janniskirschner/horn3t - **带有网页截图功能的子可视化域名枚举工具**
+
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+
+- https://github.com/yunxu1/dnsub - **基于Go语言的高并发和跨平台子域名扫描工具**
+
+> **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Go**         |         **仍在维护**: ✔️
+
+- https://github.com/shmilylty/OneForAll - **集成了多款子域名扫描工具的终极版子域名扫描器**
 
 > **评分**: 🌟🌟🌟🌟🌟         |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
@@ -304,6 +312,10 @@
 - https://github.com/fcavallarin/domdig - **基于Chrome headless的DOM-XSS扫描器**
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Node.js**         |         **Ongoing[last 6 months]**: ✔️
+
+- https://github.com/lwzSoviet/NoXss - **基于Phantomjs的DOM-XSS和反射型XSS扫描器**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 2.x**         |         **Ongoing[last 6 months]**: ✔️
 
 
 ### 企业资产管理或数据保护
@@ -648,6 +660,11 @@
 - https://github.com/1N3/BlackWidow - **Web站点信息搜集工具，包括邮箱、电话等信息**
 
 > **评分**: 🌟🌟🌟        |         **编程语言**: **Python 2.x**         |         **仍在维护**: ✖️
+
+
+- https://github.com/saeeddhqan/Maryam - **基于Recon-ng的开源情报（OSINT）收集和Web指纹识别的模块化框架**
+
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
 
 
 ### 特殊组件或漏洞类型扫描
@@ -1014,7 +1031,7 @@
 
 - https://github.com/Lucifer1993/AngelSword - **被动式漏洞扫描，支持历史cve编号漏洞识别**
 
-> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✔️
+> **评分**: 🌟🌟🌟🌟        |         **编程语言**: **Python 3.x**         |         **仍在维护**: ✖️
 
 - https://github.com/zaproxy/zaproxy - **The OWASP ZAP core project出品的综合性渗透测试工具**
 
@@ -1088,6 +1105,10 @@
 
 > **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Go**         |         **Ongoing[last 6 months]**: ✔️
 
+- https://github.com/TideSec/Mars - **WDScanner重铸版**
+
+> **Rating**: 🌟🌟🌟🌟🌟        |         **Language**: **Python 3.x**         |         **Ongoing[last 6 months]**: ✔️
+
 
 ### 高级持续性威胁
 
@@ -1156,5 +1177,8 @@ scanbox在Mozilla协议条款下发布
 - **@0xHJK**
 - **@j3ssie**
 - **@Luci-d**
+- **@cnlnn**
+- **@yunxu1**
+- **@saeeddhqan**
 
 &copy;<a href="https://github.com/monsterzer0" target="_blank">Monster Zero Team</a> 2019
